@@ -11,6 +11,11 @@ Official PyTorch implementation of Actor-aware Self-supervised Learning for Semi
 
 <table>
   <tr>
+    <td><p>Original Frames</p></td>
+    <td><p>CMPL</p></td>
+    <td><p>ActorSL (Ours)</p></td>
+  </tr>
+  <tr>
     <td> <img src="gif/hurling_sport_01_c3d.gif"  alt="1" width="240" height="240" ></td>
     <td><img src="gif/hurling_sport_01_r3d_KS.gif" width="240" height="240" /></td></td>
     <td><img src="gif/hurling_sport_01_r3d_K.gif" width="240" height="240" /></td>
