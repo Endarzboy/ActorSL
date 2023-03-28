@@ -13,12 +13,14 @@ Official PyTorch implementation of Actor-aware Self-supervised Learning for Semi
   <tr>
     <td> <img src="gif/hurling_sport_01_c3d.gif"  alt="1" width="240" height="240" ></td>
     <td><img src="gif/hurling_sport_01_r3d_KS.gif" width="240" height="240" /></td></td>
+    <td><img src="gif/hurling_sport_01_r3d_K.gif" width="240" height="240" /></td>
    </tr> 
-   <tr>
+<!--    <tr>
       <td><img src="gif/hurling_sport_01_r3d_K.gif" width="240" height="240" /></td>
       <td><img src="gif/drumming_i3d.gif" width="240" height="240" /></td>
-  </tr>
+  </tr> -->
   <tr>
+      <td><img src="gif/drumming_i3d.gif" width="240" height="240" /></td>
       <td><img src="gif/front_crawling.gif" width="240" height="240" /></td>
       <td><img src="gif/juggling_r3d_K.gif" width="240" height="240" /></td>
   </tr>
