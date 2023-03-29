@@ -38,7 +38,7 @@ Official PyTorch implementation of Actor-aware Self-supervised Learning for Semi
     <td><p>ActorSL (Ours)</p></td>
   </tr>
   <tr>
-    <td><img src="GIFs/kayaking_frames.gif" width="240" height="240" ></td>
+    <td><img src="GIFs/kayaking_heatmaps_frames.gif" width="240" height="240" ></td>
     <td><img src="GIFs/kayaking_heatmaps_CMPL.gif" width="240" height="240" /></td>
     <td><img src="GIFs/kayaking_heatmaps_Ours.gif" width="240" height="240" /></td>
    </tr> 
