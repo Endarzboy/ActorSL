@@ -19,8 +19,8 @@ Official PyTorch implementation of Actor-aware Self-supervised Learning for Semi
     <td><p>ActorSL (Ours)</p></td>
   </tr>
   <tr>
-    <td> <img src="GIFs/hurling_sport_02_frames.gif"  alt="1" width="240" height="240" ></td>
-    <td><img src="GIFs/hurling_sport_02_heatmaps_CMPL.gif" width="240" height="240" /></td></td>
+    <td><img src="GIFs/hurling_sport_02_frames.gif"  alt="1" width="240" height="240" ></td>
+    <td><img src="GIFs/hurling_sport_02_heatmaps_CMPL.gif" width="240" height="240" /></td>
     <td><img src="GIFs/hurling_sport_02_heatmaps_Ours.gif" width="240" height="240" /></td>
    </tr> 
   <tr>
@@ -29,6 +29,7 @@ Official PyTorch implementation of Actor-aware Self-supervised Learning for Semi
       <td><img src="GIFs/hurling_sport_01_heatmaps_Ours.gif" width="240" height="240" /></td>
   </tr>
 </table>
+
 ### Kayaking Action<span id="kayaking-sport"></span>
 <table>
   <tr>
@@ -38,7 +39,7 @@ Official PyTorch implementation of Actor-aware Self-supervised Learning for Semi
   </tr>
   <tr>
     <td> <img src="GIFs/kayaking_frames.gif"  alt="1" width="240" height="240" ></td>
-    <td><img src="GIFs/kayaking_heatmaps_CMPL.gif" width="240" height="240" /></td></td>
+    <td><img src="GIFs/kayaking_heatmaps_CMPL.gif" width="240" height="240" /></td>
     <td><img src="GIFs/kayaking_heatmaps_Ours.gif" width="240" height="240" /></td>
    </tr> 
 </table>
@@ -52,7 +53,7 @@ Official PyTorch implementation of Actor-aware Self-supervised Learning for Semi
   </tr>
   <tr>
     <td> <img src="GIFs/cricket_shot_frames.gif"  alt="1" width="240" height="240" ></td>
-    <td><img src="GIFs/cricket_shot_heatmaps_CMPL.gif" width="240" height="240" /></td></td>
+    <td><img src="GIFs/cricket_shot_heatmaps_CMPL.gif" width="240" height="240" /></td>
     <td><img src="GIFs/cricket_shot_heatmaps_Ours.gif" width="240" height="240" /></td>
    </tr> 
 </table>
